@@ -1,0 +1,27 @@
+h2{
+  font-size: 24px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-family: "William", serif;
+}
+
+table, th, td{
+    border: 2px solid rgb(10, 9, 10);
+    border-collapse: collapse;
+    background-color:rgb(243, 188, 209);
+    text-align: center;
+}
+ th, td{
+    padding: 5px;
+}
+table {
+    width: 400px;
+    color:rgb(19, 20, 20)
+   
+  
+}
+th {
+    font-style: italic;
+}
+    
+}
